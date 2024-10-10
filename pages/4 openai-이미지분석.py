@@ -39,7 +39,7 @@ if api_key:
                 {
                     "role": "user",
                     "content": [
-                        {"type": "text", "text": "이미지를 자세히 분석해주세요."},
+                        {"type": "text", "text": "아래 사진은 세포 분열을 그림으로 표현한 작품입니다. 학생의 작품을 보고, 평가를 해주고, 어떻게 표현하면 더 잘할수 있는지 조언해주세요."},
                         {
                             "type": "image_url",
                             "image_url": {
